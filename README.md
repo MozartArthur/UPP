@@ -9,7 +9,7 @@
 ## Тема 3. Планирование программного проекта
 + [ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t3-MozartArthur)
 + [Лабораторная работа 10, 11]()
-+ [Лабораторная работа 12, 13](https://docs.google.com/document/d/13ZBLtBshuCr_7Sx8rnl0I6iR01MHmkF2Zu_7Tgo8pIU/edit)
++ [Лабораторная работа 12, 13](https://github.com/MozartArthur/UPP/blob/master/LR1213.md)
 ## Тема 4. ПО управления проектами
 + [ИСР, ВСР](https://github.com/ctel-prj-mng/3-ivt-17-t4-MozartArthur)
 + [Лабораторная работа 14]()
